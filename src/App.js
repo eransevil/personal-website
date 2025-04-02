@@ -513,14 +513,14 @@ function Experience() {
                 The Academic College of Tel Aviv | GPA 86.5 | 2017 - 2020
               </p>
             </div>
-            <div>
+            {/* <div>
               <h4 className="text-lg font-semibold text-blue-600 dark:text-blue-400">
                 Full Stack Web Coding Bootcamp
               </h4>
               <p className="text-gray-600 dark:text-gray-300">
                 Graduate of the Coding Academy | 2020 - 2021
               </p>
-            </div>
+            </div> */}
           </div>
         </motion.div>
       </div>
