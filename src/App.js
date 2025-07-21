@@ -198,13 +198,7 @@ function About() {
   const skills = [
     {
       category: "Frontend",
-      items: [
-        "React Native",
-        "React.js",
-        "Vue.js",
-        "React Native",
-        "Redux/Vuex",
-      ],
+      items: ["React Native", "React.js", "Vue.js", "Redux/Vuex"],
     },
     {
       category: "Backend",
